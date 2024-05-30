@@ -1,2 +1,2 @@
 # Practice
-This is my first Git Repository
+This repository made for practice.
